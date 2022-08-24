@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T01:50:12.300Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oyrb2dc0qoImJmARI_E3" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T01:52:34.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OSAphgkIPL9eb26qJxqI" version="20.2.4" type="github">
   <diagram id="GMmHIosMDcKM08SkgiT_" name="第 1 页">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,8 +74,8 @@
         <mxCell id="NlGzH3RCLbMTvJ0ncMiJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NlGzH3RCLbMTvJ0ncMiJ-31" target="NlGzH3RCLbMTvJ0ncMiJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NlGzH3RCLbMTvJ0ncMiJ-31" value="获取活动信息&lt;br&gt;url:&amp;nbsp;&lt;br&gt;ref: YH&lt;br&gt;mode:3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="NlGzH3RCLbMTvJ0ncMiJ-31" value="活动分享url&lt;br&gt;活动分享图片" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="324" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
