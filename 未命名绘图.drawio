@@ -1,30 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T07:51:40.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Sj4PqW03Vq8mP1u_Yj7i" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T07:52:25.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iRGp0zqFsMAEu5h3CspW" version="20.5.1" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1426" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="H70UoJdaEVy8F2Vl5g0J-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="1030" height="740" as="geometry" />
+          <mxGeometry x="10" y="10" width="1080" height="830" as="geometry" />
         </mxCell>
         <mxCell id="H70UoJdaEVy8F2Vl5g0J-2" value="录音回放" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="H70UoJdaEVy8F2Vl5g0J-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="H70UoJdaEVy8F2Vl5g0J-3" value="https://oms-v.huolala.cn/call/voice" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="H70UoJdaEVy8F2Vl5g0J-1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="H70UoJdaEVy8F2Vl5g0J-4" value="" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=15;" vertex="1" parent="H70UoJdaEVy8F2Vl5g0J-1">
-          <mxGeometry x="30" y="130" width="800" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H70UoJdaEVy8F2Vl5g0J-5" value="线索id/手机号" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="H70UoJdaEVy8F2Vl5g0J-4">
-          <mxGeometry width="180" height="40" relative="1" as="geometry">
-            <mxPoint x="10" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H70UoJdaEVy8F2Vl5g0J-6" value="查询" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#33A64C;strokeColor=#33A64C;fillColor=none;" vertex="1" parent="H70UoJdaEVy8F2Vl5g0J-4">
-          <mxGeometry width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="200" y="10" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
