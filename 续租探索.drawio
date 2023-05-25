@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:22:27.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SagTZlKt7M_anvP8F2DE" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:24:14.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oR9DdFHew-aWQ-eGgfig" version="21.3.2" type="github">
   <diagram name="第 1 页" id="ZEQ1epqjgivnmrrteKPm">
     <mxGraphModel dx="1196" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="eP8do9VqJcl40edKN2bm-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="400" y="255" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eP8do9VqJcl40edKN2bm-22" value="&lt;b&gt;续租评分策略&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="eP8do9VqJcl40edKN2bm-22" value="&lt;b&gt;目标客户条件策略&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="-30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9zZcai4PzShoCzLJV-Cv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66B2FF;shadow=0;strokeWidth=2;" edge="1" parent="1" source="eP8do9VqJcl40edKN2bm-32" target="eP8do9VqJcl40edKN2bm-37">
